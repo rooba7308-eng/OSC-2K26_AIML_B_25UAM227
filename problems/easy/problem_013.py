@@ -11,8 +11,5 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
-# Problem: A simple shopping list with a missing comma.
-# Expected Output: A list of strings: ['apples', 'bananas', 'carrots']
-
 items = ["apples", "bananas" "carrots"]
 print(items)

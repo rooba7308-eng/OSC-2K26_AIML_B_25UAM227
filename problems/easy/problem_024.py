@@ -11,9 +11,6 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
-# Problem: Reverse a list, but call a non-existent method.
-# Expected Output: [3, 2, 1]
-
 my_list = [1, 2, 3]
 my_list.revers() # Typo in method name
 print(my_list)

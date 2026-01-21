@@ -11,9 +11,6 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
-# Problem: Repeat a string multiple times, but the multiplier is a string.
-# Expected Output: "ababab"
-
 text = "ab"
 times = "3"
 result = text * times

@@ -50,3 +50,4 @@ htmlcov/
 # Personal notes
 notes.txt
 TODO.txt
+create_issues.py

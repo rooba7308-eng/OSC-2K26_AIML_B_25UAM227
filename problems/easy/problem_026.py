@@ -11,10 +11,7 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
-# Problem: Calculate the area of a rectangle, but the formula is wrong.
-# Expected Output: 50
-
 length = 10
 width = 5
-area = length + width  # Incorrect formula
+area = length + width
 print(area)

@@ -10,9 +10,6 @@ This is a practical problem. Read the code and comments to understand the goal.
 
 Difficulty: Easy
 """
-
-# Problem: A loop to count from 1 to 5, but the range is incorrect.
-# Expected Output:
 # 1
 # 2
 # 3

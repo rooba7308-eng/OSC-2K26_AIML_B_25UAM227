@@ -11,9 +11,6 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
-# Problem: Convert Celsius to Fahrenheit with a flawed formula.
-# Expected Output: 68.0
-
 celsius = 20
-fahrenheit = celsius * (9/5)  # Missing the addition of 32
+fahrenheit = celsius * (9/5)
 print(fahrenheit)

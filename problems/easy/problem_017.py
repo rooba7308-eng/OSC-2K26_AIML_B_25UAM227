@@ -11,9 +11,6 @@ This is a practical problem. Read the code and comments to understand the goal.
 Difficulty: Easy
 """
 
-# Problem: A simple calculator with a syntax error.
-# Expected Output: The correct sum, e.g., 8 for 5 + 3.
-
 def calculate(a, b, op):
     if op == '+':
         return a + b
