@@ -9,9 +9,9 @@ This is a practical problem. Read the code and comments to understand the goal.
 3. Run the script to ensure it now produces the expected output.
 
 Difficulty: Easy
-"""
+""" 
 
 price = 100
 discount_percent = 10
-discounted_price = price * (1 - discount_percent) # Should be discount_percent / 100
+discounted_price = price*10/100
 print(discounted_price)
