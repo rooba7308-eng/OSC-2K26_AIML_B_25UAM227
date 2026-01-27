@@ -7,7 +7,7 @@ Difficulty: Medium
  
 def run():
     x = 10
-    y = 0
-    return x / y
-
-run()
+    y = 5
+    a=x/y
+    return a
+print(run())
