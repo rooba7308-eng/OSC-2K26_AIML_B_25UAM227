@@ -6,8 +6,8 @@ Difficulty: Medium
 
 def update_budget(current_val, input_val):
      
-    return current_val + input_val
+    return current_val + int(input_val)
 
-curr = 100
-inp = "50"
-print(update_budget(curr, inp))
+current_val = 100
+input_val = "50"
+print(update_budget(current_val, input_val))
